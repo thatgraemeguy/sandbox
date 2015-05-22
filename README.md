@@ -13,5 +13,5 @@ Some other crap...
 
 table
 
-name | surname | stuff
------|---------|------
+name|surname|stuff
+-|-|-
