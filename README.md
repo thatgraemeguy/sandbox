@@ -14,4 +14,4 @@ Some other crap...
 table
 
 name|surname|stuff
---|--|--
+---|---|---
