@@ -15,3 +15,8 @@ table
 
 name|surname|stuff
 ---|---|---
+joe|public|dumbass
+fred|bloggs|don't know him
+some|guy|genius
+other|dude|
+last|girl|derp
